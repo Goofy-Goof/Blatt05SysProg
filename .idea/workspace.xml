@@ -1,0 +1,632 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="Vorgabe__1_" targetName="Vorgabe__1_" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9a1dd40b-234f-4785-b98d-63a77ad11bde" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/supplier.c" beforeDir="false" afterPath="$PROJECT_DIR$/src/supplier.c" afterDir="false" />
+    </list>
+    <list id="65dd5fd9-a104-409f-aa75-1b806d96cd6c" name="first stable working version" comment="first stable working version">
+      <changelist_data name="artem sereda" email="artem.sereda@campus.tu-berlin.de" date="1561140738000" />
+    </list>
+    <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/bakery.c">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1037">
+              <caret line="61" column="11" selection-start-line="61" selection-start-column="11" selection-end-line="61" selection-end-column="11" />
+              <folding>
+                <element signature="e#0#30#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/supplier.c">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2261">
+              <caret line="133" column="22" selection-start-line="133" selection-start-column="22" selection-end-line="133" selection-end-column="22" />
+              <folding>
+                <element signature="e#0#33#0" expanded="true" />
+                <element signature="e#481#517#0" expanded="true" />
+                <element signature="e#1048#1085#0" expanded="true" />
+                <element signature="e#2274#2307#0" expanded="true" />
+                <element signature="e#2469#2506#0" expanded="true" />
+                <element signature="e#2936#2964#0" expanded="true" />
+                <element signature="e#3298#3327#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/CMakeLists.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/warehouse.c">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2822">
+              <caret line="166" column="1" selection-start-line="166" selection-start-column="1" selection-end-line="166" selection-end-column="1" />
+              <folding>
+                <element signature="e#0#35#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>get_order</find>
+      <find>stop_suply</find>
+      <find>stop</find>
+      <find>get_used</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="HARD" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/include/warehouse.h" />
+        <option value="$PROJECT_DIR$/src/bakery.c" />
+        <option value="$PROJECT_DIR$/src/worker.c" />
+        <option value="$PROJECT_DIR$/src/orders.txt" />
+        <option value="$PROJECT_DIR$/src/order.c" />
+        <option value="$PROJECT_DIR$/src/warehouse.c" />
+        <option value="$PROJECT_DIR$/src/management.c" />
+        <option value="$PROJECT_DIR$/src/supplier.c" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1680" />
+    <option name="height" value="1050" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Vorgabe__1_" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Vorgabe (1)" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Vorgabe__1_" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Vorgabe (1)" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="TODO_SCOPE" value="All Places" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.externalTools" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/../" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Vorgabe__1_" type="CMakeRunConfiguration" factoryName="Application" singleton="false" WORKING_DIR="file://$PROJECT_DIR$/src" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Vorgabe__1_" TARGET_NAME="Vorgabe__1_" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Vorgabe__1_" RUN_TARGET_NAME="Vorgabe__1_">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="AUTOSCROLL_MODE" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9a1dd40b-234f-4785-b98d-63a77ad11bde" name="Default Changelist" comment="" />
+      <created>1560261734712</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1560261734712</updated>
+      <workItem from="1560261735879" duration="298000" />
+      <workItem from="1560458773809" duration="91000" />
+      <workItem from="1560459042017" duration="311000" />
+      <workItem from="1560459398216" duration="995000" />
+      <workItem from="1560604175837" duration="9000" />
+      <workItem from="1560604206229" duration="2156000" />
+      <workItem from="1560796398590" duration="2766000" />
+      <workItem from="1560799298740" duration="770000" />
+      <workItem from="1560800282648" duration="4549000" />
+      <workItem from="1560895553515" duration="6611000" />
+      <workItem from="1560967047497" duration="2620000" />
+      <workItem from="1561038952297" duration="14172000" />
+      <workItem from="1561113418935" duration="559000" />
+      <workItem from="1561114514665" duration="2496000" />
+      <workItem from="1561121819470" duration="8284000" />
+      <workItem from="1561277644902" duration="17599000" />
+      <workItem from="1561322168534" duration="595000" />
+      <workItem from="1561323340485" duration="1893000" />
+      <workItem from="1561705507231" duration="65000" />
+      <workItem from="1561742362316" duration="11000" />
+      <workItem from="1561742377419" duration="9000" />
+    </task>
+    <task id="LOCAL-00001" summary="init">
+      <created>1560458845787</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1560458845787</updated>
+    </task>
+    <task id="LOCAL-00002" summary="mutexes set">
+      <created>1560878083148</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1560878083149</updated>
+    </task>
+    <task id="LOCAL-00003" summary="sprechstunde">
+      <created>1560957767533</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1560957767534</updated>
+    </task>
+    <task id="LOCAL-00004" summary="order.c final">
+      <created>1561300287558</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1561300287558</updated>
+    </task>
+    <task id="LOCAL-00005" summary="warehouse.c done">
+      <created>1561302463958</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1561302463958</updated>
+    </task>
+    <task id="LOCAL-00006" summary="managment.c ready">
+      <created>1561302879640</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1561302879640</updated>
+    </task>
+    <task id="LOCAL-00007" summary="supplier.c ready">
+      <created>1561303513387</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1561303513387</updated>
+    </task>
+    <task id="LOCAL-00008" summary="order.c ready">
+      <created>1561305058609</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1561305058609</updated>
+    </task>
+    <task id="LOCAL-00009" summary="worker.c aded">
+      <created>1561305102997</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1561305102997</updated>
+    </task>
+    <task id="LOCAL-00010" summary="manamgment.c cheked">
+      <created>1561305174884</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1561305174884</updated>
+    </task>
+    <task id="LOCAL-00011" summary="warehouse.c +">
+      <created>1561305217035</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1561305217035</updated>
+    </task>
+    <task id="LOCAL-00012" summary="supplier.c done">
+      <created>1561305254130</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1561305254130</updated>
+    </task>
+    <task id="LOCAL-00013" summary="supplier.c ready">
+      <created>1561308600425</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1561308600425</updated>
+    </task>
+    <task id="LOCAL-00014" summary="stable finale beta">
+      <created>1561311019570</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1561311019570</updated>
+    </task>
+    <task id="LOCAL-00015" summary="stable finale beta 2.0">
+      <created>1561322463891</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1561322463892</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="66859000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" side_tool="true" visible="true" weight="0.20879121" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.24969475" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4981685" weight="0.7565308" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4430512" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.4981685" weight="0.38035527" />
+      <window_info anchor="bottom" id="Database Changes" order="7" />
+      <window_info anchor="bottom" id="Messages" order="8" sideWeight="0.4981685" weight="0.33019853" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.4981685" weight="0.31661442" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50183153" side_tool="true" weight="0.15612245" />
+      <window_info anchor="bottom" id="Version Control" order="11" weight="0.5423198" />
+      <window_info anchor="bottom" id="CMake" order="12" weight="0.32959184" />
+      <window_info anchor="bottom" id="Profiler" order="13" sideWeight="0.4993895" weight="0.5506792" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" weight="0.32967034" />
+      <window_info anchor="right" id="make" order="4" />
+      <window_info anchor="right" id="Compiler Explorer" order="5" side_tool="true" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" side_tool="true" weight="0.01831502" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.24969475" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Profiler" order="0" weight="0.34183672" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Find" order="2" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.5469388" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.53265303" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="7" weight="0.36632654" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Messages" order="9" weight="0.37142858" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32244897" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="12" weight="0.32959184" />
+      <window_info anchor="bottom" id="CMake" order="13" weight="0.32959184" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout-to-restore>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init" />
+    <MESSAGE value="mutexes set" />
+    <MESSAGE value="sprechstunde" />
+    <MESSAGE value="order.c final" />
+    <MESSAGE value="warehouse.c done" />
+    <MESSAGE value="managment.c ready" />
+    <MESSAGE value="order.c ready" />
+    <MESSAGE value="worker.c aded" />
+    <MESSAGE value="manamgment.c cheked" />
+    <MESSAGE value="warehouse.c +" />
+    <MESSAGE value="supplier.c done" />
+    <MESSAGE value="supplier.c ready" />
+    <MESSAGE value="stable finale beta" />
+    <MESSAGE value="stable finale beta 2.0" />
+    <option name="LAST_COMMIT_MESSAGE" value="stable finale beta 2.0" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file:///Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include/pthread.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3640">
+          <caret line="195" column="6" lean-forward="true" selection-start-line="195" selection-start-column="6" selection-end-line="195" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/order.o" />
+    <entry file="file://$PROJECT_DIR$/src/order.d" />
+    <entry file="file:///Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/Carbon.framework/Headers/Carbon.h">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file:///Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/Carbon.framework/Headers/Carbon.r">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/supplier.d" />
+    <entry file="file://$PROJECT_DIR$/include/warehouse.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="17" lean-forward="true" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/worker.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/order.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/management.h">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HA4_Ashraf/include/warehouse.h" />
+    <entry file="file://$PROJECT_DIR$/HA4_Ashraf/include/supplier.h" />
+    <entry file="file://$PROJECT_DIR$/HA4_Ashraf/src/bakery.c" />
+    <entry file="file://$PROJECT_DIR$/HA4_Ashraf/src/management.c" />
+    <entry file="file://$PROJECT_DIR$/HA4_Ashraf/src/warehouse.c" />
+    <entry file="file://$PROJECT_DIR$/HA4_Ashraf/src/supplier.c" />
+    <entry file="file://$USER_HOME$/Desktop/HA4_beta/src/bakery.c" />
+    <entry file="file://$USER_HOME$/Desktop/HA4_beta/src/order.c" />
+    <entry file="file://$USER_HOME$/Desktop/HA4_beta/src/worker.c" />
+    <entry file="file://$PROJECT_DIR$/include/supplier.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Makefile">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/HA4_beta/src/management.c" />
+    <entry file="file://$USER_HOME$/Desktop/HA4_beta/src/supplier.c" />
+    <entry file="file://$USER_HOME$/Desktop/HA4_beta/src/warehouse.c" />
+    <entry file="file://$PROJECT_DIR$/ashraf/order.c" />
+    <entry file="file://$PROJECT_DIR$/ashraf/bakery.d" />
+    <entry file="file://$PROJECT_DIR$/ashraf/supplier.c" />
+    <entry file="file://$PROJECT_DIR$/ashraf/worker.c" />
+    <entry file="file://$PROJECT_DIR$/ashraf/bakery.c" />
+    <entry file="file://$PROJECT_DIR$/ashraf/management.c" />
+    <entry file="file://$PROJECT_DIR$/ashraf/warehouse.c" />
+    <entry file="file://$PROJECT_DIR$/src/warehouse.d" />
+    <entry file="file://$PROJECT_DIR$/src/management.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2227">
+          <caret line="131" column="20" selection-start-line="131" selection-start-column="20" selection-end-line="131" selection-end-column="20" />
+          <folding>
+            <element signature="e#0#36#0" expanded="true" />
+            <element signature="e#752#781#0" expanded="true" />
+            <element signature="e#1690#1729#0" expanded="true" />
+            <element signature="e#2726#2760#0" expanded="true" />
+            <element signature="e#3233#3271#0" expanded="true" />
+            <element signature="e#3438#3469#0" expanded="true" />
+            <element signature="e#4342#4368#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/order.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="2" selection-start-line="5" selection-start-column="2" selection-end-line="5" selection-end-column="2" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+            <element signature="e#256#281#0" expanded="true" />
+            <element signature="e#601#653#0" expanded="true" />
+            <element signature="e#728#751#0" expanded="true" />
+            <element signature="e#873#896#0" expanded="true" />
+            <element signature="e#1001#1027#0" expanded="true" />
+            <element signature="e#1408#1428#0" expanded="true" />
+            <element signature="e#1541#1571#0" expanded="true" />
+            <element signature="e#2238#2264#0" expanded="true" />
+            <element signature="e#2681#2703#0" expanded="true" />
+            <element signature="e#3098#3129#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/worker.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+            <element signature="e#415#441#0" expanded="true" />
+            <element signature="e#765#784#0" expanded="true" />
+            <element signature="e#1290#1314#0" expanded="true" />
+            <element signature="e#1563#1590#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/orders.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="12" selection-start-column="12" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bakery.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1037">
+          <caret line="61" column="11" selection-start-line="61" selection-start-column="11" selection-end-line="61" selection-end-column="11" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/supplier.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2261">
+          <caret line="133" column="22" selection-start-line="133" selection-start-column="22" selection-end-line="133" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#33#0" expanded="true" />
+            <element signature="e#481#517#0" expanded="true" />
+            <element signature="e#1048#1085#0" expanded="true" />
+            <element signature="e#2274#2307#0" expanded="true" />
+            <element signature="e#2469#2506#0" expanded="true" />
+            <element signature="e#2936#2964#0" expanded="true" />
+            <element signature="e#3298#3327#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/warehouse.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2822">
+          <caret line="166" column="1" selection-start-line="166" selection-start-column="1" selection-end-line="166" selection-end-column="1" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

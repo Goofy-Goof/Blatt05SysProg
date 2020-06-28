@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/cc -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/src.dir/bakery.c.o CMakeFiles/src.dir/management.c.o CMakeFiles/src.dir/order.c.o CMakeFiles/src.dir/supplier.c.o CMakeFiles/src.dir/warehouse.c.o CMakeFiles/src.dir/worker.c.o  -o src 

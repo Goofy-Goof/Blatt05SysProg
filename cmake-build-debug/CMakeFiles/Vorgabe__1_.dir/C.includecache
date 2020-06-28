@@ -1,0 +1,48 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/artemsereda/Documents/TI/2.Sem/SysProg/Blatt04/Vorgabe (1)/src/./../include/management.h
+order.h
+/Users/artemsereda/Documents/TI/2.Sem/SysProg/Blatt04/Vorgabe (1)/src/./../include/order.h
+supplier.h
+/Users/artemsereda/Documents/TI/2.Sem/SysProg/Blatt04/Vorgabe (1)/src/./../include/supplier.h
+
+/Users/artemsereda/Documents/TI/2.Sem/SysProg/Blatt04/Vorgabe (1)/src/./../include/order.h
+
+/Users/artemsereda/Documents/TI/2.Sem/SysProg/Blatt04/Vorgabe (1)/src/./../include/supplier.h
+warehouse.h
+/Users/artemsereda/Documents/TI/2.Sem/SysProg/Blatt04/Vorgabe (1)/src/./../include/warehouse.h
+
+/Users/artemsereda/Documents/TI/2.Sem/SysProg/Blatt04/Vorgabe (1)/src/./../include/warehouse.h
+
+/Users/artemsereda/Documents/TI/2.Sem/SysProg/Blatt04/Vorgabe (1)/src/management.c
+./../include/management.h
+/Users/artemsereda/Documents/TI/2.Sem/SysProg/Blatt04/Vorgabe (1)/src/./../include/management.h
+./../include/order.h
+/Users/artemsereda/Documents/TI/2.Sem/SysProg/Blatt04/Vorgabe (1)/src/./../include/order.h
+./../include/supplier.h
+/Users/artemsereda/Documents/TI/2.Sem/SysProg/Blatt04/Vorgabe (1)/src/./../include/supplier.h
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+pthread.h
+-
+
+/Users/artemsereda/Documents/TI/2.Sem/SysProg/Blatt04/Vorgabe (1)/src/warehouse.c
+./../include/warehouse.h
+/Users/artemsereda/Documents/TI/2.Sem/SysProg/Blatt04/Vorgabe (1)/src/./../include/warehouse.h
+pthread.h
+-
+stdlib.h
+-
+stdio.h
+-
+

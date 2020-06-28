@@ -1,0 +1,3 @@
+/Users/artemsereda/Documents/TI/2.Sem/SysProg/Blatt04/Vorgabe (1)/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/artemsereda/Documents/TI/2.Sem/SysProg/Blatt04/Vorgabe (1)/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/artemsereda/Documents/TI/2.Sem/SysProg/Blatt04/Vorgabe (1)/cmake-build-debug/CMakeFiles/Vorgabe__1_.dir
